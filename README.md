@@ -32,3 +32,6 @@ Atliq, a software development company, has the perfect solution. Mohan, a busine
 4. **Run the App**: Launch the app by running:
    ```bash
    streamlit run app/main.py
+
+## Result:
+![grafik](https://github.com/user-attachments/assets/c155c2da-e653-4a3c-914b-6434d2973fc3)
