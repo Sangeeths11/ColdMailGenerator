@@ -11,6 +11,8 @@ Nike is looking for a Principal Software Engineer and investing heavily in the h
 
 Atliq, a software development company, has the perfect solution. Mohan, a business development executive from Atliq, can offer Nike a dedicated software engineer without the overhead of hiring. To make this offer stand out, he sends a personalized cold email crafted by this tool, highlighting Atliq's relevant portfolio and expertise—all tailored to Nike’s needs.
 
+<img width="100%" alt="Screenshot 2024-09-04 214942" src="https://github.com/user-attachments/assets/55394bad-9303-4281-8e3d-f6bb54414548">
+
 ### Key Features:
 - **Automated Job Listing Extraction**: Easily pull job details from a careers page.
 - **Tailored Cold Emails**: Generate unique, targeted emails based on job descriptions.
