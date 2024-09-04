@@ -17,7 +17,7 @@ Atliq, a software development company, has the perfect solution. Mohan, a busine
 - **Portfolio Integration**: Automatically link relevant work samples from your portfolio database.
 
 ## Architecture Diagram
-<img width="451" alt="Screenshot 2024-09-04 212946" src="https://github.com/user-attachments/assets/1449a36f-faae-4f46-9437-6b358a676ee0">
+<img width="100%" alt="Screenshot 2024-09-04 212946" src="https://github.com/user-attachments/assets/1449a36f-faae-4f46-9437-6b358a676ee0">
 
 
 ## Setup Instructions:
