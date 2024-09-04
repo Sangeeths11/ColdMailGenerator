@@ -4,3 +4,4 @@ python-dotenv
 chromadb
 langchain_community
 pandas
+streamlit
