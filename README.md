@@ -17,7 +17,7 @@ Atliq, a software development company, has the perfect solution. Mohan, a busine
 - **Portfolio Integration**: Automatically link relevant work samples from your portfolio database.
 
 ## Architecture Diagram
-<img width="100%" alt="Screenshot 2024-09-04 212946" src="https://github.com/user-attachments/assets/1449a36f-faae-4f46-9437-6b358a676ee0">
+<img width="100%" alt="Screenshot 2024-09-04 212946" src="https://github.com/user-attachments/assets/5d46c5a5-6709-45d0-b3bd-083e50a1944f">
 
 
 ## Setup Instructions:
@@ -27,6 +27,6 @@ Atliq, a software development company, has the perfect solution. Mohan, a busine
 3. **Install Dependencies**: Run the following to install required packages:
    ```bash
    pip install -r requirements.txt
-4.**Run the App**: Launch the app by running:
+4. **Run the App**: Launch the app by running:
    ```bash
    streamlit run app/main.py
