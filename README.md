@@ -22,7 +22,7 @@ Atliq, a software development company, has the perfect solution. Mohan, a busine
 <img width="100%" alt="Screenshot 2024-09-04 212946" src="https://github.com/user-attachments/assets/5d46c5a5-6709-45d0-b3bd-083e50a1944f">
 
 ## Result:
-![grafik](https://github.com/user-attachments/assets/c155c2da-e653-4a3c-914b-6434d2973fc3)
+![grafik](https://github.com/user-attachments/assets/8e77731e-a422-4e77-9d90-dc29f6fa12ee)
 
 ## Setup Instructions:
 
